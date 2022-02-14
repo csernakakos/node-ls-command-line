@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/csernakakos/node-ls-command-line/issues"
   },
-  "homepage": "https://github.com/csernakakos/node-ls-command-line#readme"
+  "homepage": "https://github.com/csernakakos/node-ls-command-line#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
 }
